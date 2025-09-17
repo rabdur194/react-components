@@ -1,0 +1,10 @@
+
+
+.productPage .prodDescription .productsDisplay .searchBox {
+    display: flex;
+    width: auto;
+    height: auto;
+}
+.searchBox{
+    width: 1000px;
+}
